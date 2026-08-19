@@ -1,0 +1,6 @@
+{
+  "name": "Image Gallery",
+  "description": "A minimalist interactive photo gallery with lightbox view, category filtering, search, keyboard navigation, and smooth transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
