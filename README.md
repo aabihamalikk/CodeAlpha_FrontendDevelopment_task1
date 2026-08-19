@@ -1,3 +1,5 @@
+## Aura - Image Gallery
+This task include an image gallery inspired by pinterest
 ## Run Locally
 
 **Prerequisites:**  Node.js
